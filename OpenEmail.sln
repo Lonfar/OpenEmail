@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Blend for Visual Studio 15
+# Visual Studio 15
 VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Repository", "Domain.Repository\Domain.Repository.csproj", "{959CE88D-434F-431F-9006-A1DBCA5A7784}"
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.UnitOfWork", "Domain.UnitOfWork\Domain.UnitOfWork.csproj", "{DE313602-606E-4BD6-9023-84A7D7193757}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{6860E633-51BD-4402-82A8-101A1ED94EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEmailApp", "OpenEmailApp\OpenEmailApp.csproj", "{908E051D-3613-499D-9325-37A648220453}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,26 @@ Global
 		{6860E633-51BD-4402-82A8-101A1ED94EA8}.Release|x64.Build.0 = Release|x64
 		{6860E633-51BD-4402-82A8-101A1ED94EA8}.Release|x86.ActiveCfg = Release|x86
 		{6860E633-51BD-4402-82A8-101A1ED94EA8}.Release|x86.Build.0 = Release|x86
+		{908E051D-3613-499D-9325-37A648220453}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{908E051D-3613-499D-9325-37A648220453}.Debug|ARM.ActiveCfg = Debug|ARM
+		{908E051D-3613-499D-9325-37A648220453}.Debug|ARM.Build.0 = Debug|ARM
+		{908E051D-3613-499D-9325-37A648220453}.Debug|ARM.Deploy.0 = Debug|ARM
+		{908E051D-3613-499D-9325-37A648220453}.Debug|x64.ActiveCfg = Debug|x64
+		{908E051D-3613-499D-9325-37A648220453}.Debug|x64.Build.0 = Debug|x64
+		{908E051D-3613-499D-9325-37A648220453}.Debug|x64.Deploy.0 = Debug|x64
+		{908E051D-3613-499D-9325-37A648220453}.Debug|x86.ActiveCfg = Debug|x86
+		{908E051D-3613-499D-9325-37A648220453}.Debug|x86.Build.0 = Debug|x86
+		{908E051D-3613-499D-9325-37A648220453}.Debug|x86.Deploy.0 = Debug|x86
+		{908E051D-3613-499D-9325-37A648220453}.Release|Any CPU.ActiveCfg = Release|x86
+		{908E051D-3613-499D-9325-37A648220453}.Release|ARM.ActiveCfg = Release|ARM
+		{908E051D-3613-499D-9325-37A648220453}.Release|ARM.Build.0 = Release|ARM
+		{908E051D-3613-499D-9325-37A648220453}.Release|ARM.Deploy.0 = Release|ARM
+		{908E051D-3613-499D-9325-37A648220453}.Release|x64.ActiveCfg = Release|x64
+		{908E051D-3613-499D-9325-37A648220453}.Release|x64.Build.0 = Release|x64
+		{908E051D-3613-499D-9325-37A648220453}.Release|x64.Deploy.0 = Release|x64
+		{908E051D-3613-499D-9325-37A648220453}.Release|x86.ActiveCfg = Release|x86
+		{908E051D-3613-499D-9325-37A648220453}.Release|x86.Build.0 = Release|x86
+		{908E051D-3613-499D-9325-37A648220453}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
